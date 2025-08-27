@@ -1,2 +1,2 @@
 # Veri-bilimi
-Makinr öğrenmesine başlangıç için python uygulamaları
+Makine öğrenmesine başlangıç için python uygulamaları
